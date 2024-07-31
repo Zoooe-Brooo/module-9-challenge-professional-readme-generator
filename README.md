@@ -10,6 +10,7 @@ https://drive.google.com/file/d/1JxEg6e8Xt-5mBTBiYAuf5PWEX07BIQJp/view
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
+* [Credits](#credits)
 ## Installation
 Node.js, npm and code editor need to be installed in advance, then init the package.json by runing: 'npm init -y', in addition, inquirer package also need to be installed with npm in advance. Last, application's JS files need to be clone to the local machine.
 ## Usage
@@ -28,3 +29,5 @@ If you have any questions, please feel free to contact me:
 GitHub: https://github.com/Zoooe-Brooo
 
 Email: zhongwenli.zoe@gmail.com
+## Credits
+Stater Code from: https://github.com/coding-boot-camp/potential-enigma
