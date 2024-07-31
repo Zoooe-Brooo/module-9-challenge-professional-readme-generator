@@ -1,6 +1,8 @@
 # Professional README Generator ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ## Description
 A command-line application that generates a professional README.md file from user's input.
+## Link to walkthrough video
+https://drive.google.com/file/d/1JxEg6e8Xt-5mBTBiYAuf5PWEX07BIQJp/view
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
